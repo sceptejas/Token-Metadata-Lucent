@@ -2,12 +2,12 @@
   "name": "Lucent Staked LMSOL",
   "symbol": "lmSOL",
   "description": "Liquid staking token representing staked LMSOL through Lucent.",
-  "image": "https://raw.githubusercontent.com/sceptejas/metadata-lucent/main/images/lmSOL.png",
+  "image": "https://raw.githubusercontent.com/sceptejas/Token-Metadata-Lucent/main/icons/lucent-sol.png",
   "external_url": "https://lucent.fi",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/sceptejas/metadata-lucent/main/images/lmSOL.png",
+        "uri": "https://raw.githubusercontent.com/sceptejas/Token-Metadata-Lucent/main/icons/lucent-sol.png",
         "type": "image/png"
       }
     ],

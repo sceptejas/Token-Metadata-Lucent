@@ -3,7 +3,7 @@
   "symbol": "lmSOL",
   "description": "Liquid staking token representing staked SOL through Lucent.",
   "image": "https://raw.githubusercontent.com/sceptejas/Token-Metadata-Lucent/main/icons/lucent-sol.png",
-  "external_url": "https://lucent.fi",
+  "external_url": "https://lmns.fi",
   "properties": {
     "files": [
       {

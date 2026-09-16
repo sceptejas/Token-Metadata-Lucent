@@ -1,7 +1,7 @@
 {
-  "name": "Lucent Staked LMSOL",
+  "name": "Lucent Staked SOL",
   "symbol": "lmSOL",
-  "description": "Liquid staking token representing staked LMSOL through Lucent.",
+  "description": "Liquid staking token representing staked SOL through Lucent.",
   "image": "https://raw.githubusercontent.com/sceptejas/Token-Metadata-Lucent/main/icons/lucent-sol.png",
   "external_url": "https://lucent.fi",
   "properties": {

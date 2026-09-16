@@ -1,7 +1,7 @@
 {
-  "name": "Lucent Staked lmUSD",
-  "symbol": "lmUSD",
-  "description": "Liquid staking token representing staked lmUSD through Lucent.",
+  "name": "Lucent Staked USDC",
+  "symbol": "lmUSDC",
+  "description": "Liquid staking token representing staked USDC through Lucent.",
   "image": "https://raw.githubusercontent.com/sceptejas/Token-Metadata-Lucent/main/icons/lucent-usdc.png",
   "external_url": "https://lmns.fi",
   "properties": {
